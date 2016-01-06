@@ -1,0 +1,42 @@
+
+/* GENERAL */
+* {
+  width: 500px;
+  padding: 0 20px;
+}
+
+/* HEADER */
+header {
+  font-family: News Cycle;
+}
+
+h1 {
+  font-size: 50px;
+  }
+
+/* BODY */
+
+img {
+  width: 300px;
+  float: right;
+  padding-left: 10px;
+}
+
+span.Food {
+  font-family: Hind;
+  font-weight: 600;
+}
+
+/* COLOR */
+header {
+  background-color: #a8c093;
+  color: white;
+}
+
+div.obj {
+  background-color: #da647f;
+}
+
+div.edu {
+  background-color: #d1ddd3;
+}
